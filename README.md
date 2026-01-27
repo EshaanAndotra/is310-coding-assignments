@@ -6,7 +6,7 @@
 
 ![Python Installation](images/Python.png)
 
-2. Git
+2. GitHub Account
 
 ![GitHub Account](images/GitHub.png)
 
@@ -18,9 +18,14 @@
 
 ![Slack Installation](images/Slack.png)
 
-5. Hypothesis
+5. Git
+
+![Git Installation](images/Git.png)
+
+6. Hypothesis
 
 ![Hypothesis Installation](images/Hypothesis.png)
+
 Account Name: eshaanandotra
 
 
