@@ -20,7 +20,7 @@
 
 5. Hypothesis
 
-![Hypothesis Installation](Hypothesis.png)
+![Hypothesis Installation](images/Hypothesis.png)
 Account Name: eshaanandotra
 
 
