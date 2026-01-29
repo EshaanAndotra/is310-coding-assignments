@@ -28,4 +28,8 @@
 
 Account Name: eshaanandotra
 
+AI Tools/Workflow
+
+I intend to do most of my assignments manually but may use AI to help organize my ideas before hand.
+
 
