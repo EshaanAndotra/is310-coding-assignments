@@ -9,13 +9,13 @@ https://github.com/hathitrust/babel
 
 ## Web Technologies Used
 
-The HathiTrust Book Viewer uses standard web technologies:
+HathiTrust uses the usual web technologies:
 
 1. HTML for page structure  
 2. CSS for styling and layout  
 3. JavaScript for interactivity and navigation  
 
-The site loads compiled CSS and JavaScript files that control the appearance and behavior of the interface.
+They loads use CSS and JavaScript files that control the appearance and behavior of the interface.
 
 HEre is an example of a CSS file:
 
