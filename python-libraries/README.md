@@ -1,0 +1,2 @@
+# CLI Application
+It works pretty simply where you just input your favorite show, when it released, and how many episodes it has. All it does is it saves it to a file as a csv where you can work with the data as needed. 
