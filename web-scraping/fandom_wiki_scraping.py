@@ -5,7 +5,7 @@ from pathlib import Path
 
 BASE_URL = "https://dune.fandom.com"
 URL = "https://dune.fandom.com/wiki/Category:Characters"
-OUTPUT_FILE = "./web-scraping/dune_characters.csv"
+OUTPUT_FILE = Path(__file__).parent / "dune_characters.csv"
 
 scraper = cloudscraper.create_scraper()
 
@@ -18,6 +18,7 @@ def parse_characters(response):
     soup = BeautifulSoup(response.text, "html.parser")
     characters = []
     seen = set()
+
     category_div = soup.find("div", class_="category-page__members")
 
     if not category_div:
@@ -34,7 +35,6 @@ def parse_characters(response):
         if not name or not href:
             continue
 
-        # Convert relative URL to full URL
         full_url = BASE_URL + href
 
         if full_url in seen:
@@ -50,7 +50,7 @@ def parse_characters(response):
     return characters
 
 def save_to_csv(characters, filename):
-    filepath = Path(filename).resolve()
+    filepath = Path(filename)
 
     with filepath.open("w", newline="", encoding="utf-8") as file:
         writer = csv.writer(file)
@@ -58,7 +58,7 @@ def save_to_csv(characters, filename):
         for character in characters:
             writer.writerow([character["character_name"], character["character_url"]])
 
-    print(f"Saved to: {filepath}")
+    print(f"Saved to: {filepath.resolve()}")
     print(f"Total rows: {len(characters)}")
 
 def preview_results(characters, n=10):
