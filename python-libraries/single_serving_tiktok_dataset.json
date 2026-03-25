@@ -1,0 +1,26 @@
+[
+    {
+        "item_id": "T001",
+        "video_title": "food",
+        "creator_handle": "food_person",
+        "video_url": "something",
+        "dish_type": "cheese pizza",
+        "convenience_emphasis": "none",
+        "creator_presentation": "hands_only",
+        "video_length_seconds": "20",
+        "impact_level": "low",
+        "notes": "none"
+    },
+    {
+        "item_id": "T002",
+        "video_title": "Pepperoni pIzza",
+        "creator_handle": "pizza_guy",
+        "video_url": "something",
+        "dish_type": "Pepperoni Pizz",
+        "convenience_emphasis": "explicit",
+        "creator_presentation": "text_only",
+        "video_length_seconds": "500",
+        "impact_level": "high",
+        "notes": "none"
+    }
+]
