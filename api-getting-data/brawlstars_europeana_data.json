@@ -1,0 +1,1226 @@
+{
+  "brawler": {
+    "id": 16000000,
+    "name": "SHELLY",
+    "starPowers": [
+      {
+        "id": 23000076,
+        "name": "SHELL SHOCK"
+      },
+      {
+        "id": 23000135,
+        "name": "BAND-AID"
+      }
+    ],
+    "hyperCharges": [
+      {
+        "id": 23000613,
+        "name": "DOUBLE BARREL"
+      }
+    ],
+    "gears": [
+      {
+        "id": 62000000,
+        "name": "SPEED",
+        "level": 3
+      },
+      {
+        "id": 62000001,
+        "name": "HEALTH",
+        "level": 3
+      },
+      {
+        "id": 62000002,
+        "name": "DAMAGE",
+        "level": 3
+      },
+      {
+        "id": 62000003,
+        "name": "VISION",
+        "level": 3
+      },
+      {
+        "id": 62000004,
+        "name": "SHIELD",
+        "level": 3
+      },
+      {
+        "id": 62000017,
+        "name": "GADGET COOLDOWN",
+        "level": 3
+      }
+    ],
+    "gadgets": [
+      {
+        "id": 23000255,
+        "name": "FAST FORWARD"
+      },
+      {
+        "id": 23000288,
+        "name": "CLAY PIGEONS"
+      }
+    ]
+  },
+  "query": "SHELLY",
+  "items": [
+    {
+      "completeness": 7,
+      "country": [
+        "Spain"
+      ],
+      "dataProvider": [
+        "National Library of Spain"
+      ],
+      "dcCreator": [
+        "Chamorro y Baquerizo, Pedro, s. XIX"
+      ],
+      "dcCreatorLangAware": {
+        "def": [
+          "Chamorro y Baquerizo, Pedro, s. XIX"
+        ]
+      },
+      "dcDescription": [
+        "Facs. del aut\u00f3grafo \"Ricardo Shelly\"",
+        "Facs. del aut\u00f3grafo \"Ricardo Shelly\""
+      ],
+      "dcDescriptionLangAware": {
+        "def": [
+          "Facs. del aut\u00f3grafo \"Ricardo Shelly\""
+        ],
+        "es": [
+          "Facs. del aut\u00f3grafo \"Ricardo Shelly\""
+        ]
+      },
+      "dcLanguage": [
+        "spa"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "spa"
+        ]
+      },
+      "dcTitleLangAware": {
+        "pt": [
+          "[Retrato de Ricardo Shelly] [Material gr\u00e1fico]"
+        ],
+        "def": [
+          "[Retrato de Ricardo Shelly] [Material gr\u00e1fico]"
+        ]
+      },
+      "edmDatasetName": [
+        "2022717_Ag_ES_Hispana_Biblioteca_Nacional"
+      ],
+      "edmIsShownAt": [
+        "http://bdh-rd.bne.es/viewer.vm?id=0000035665&page=1"
+      ],
+      "edmIsShownBy": [
+        "http://bdh-rd.bne.es/pdf.raw?query=id:0000035665&page=1&jpeg=true"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fbdh-rd.bne.es%2Fpdf.raw%3Fquery%3Did%3A0000035665%26page%3D1%26jpeg%3Dtrue&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "Second millenium AD"
+        },
+        {
+          "def": "Second millenium AD, years 1001-2000"
+        },
+        {
+          "def": "2e mill\u00e9naire apr\u00e8s J.-C."
+        },
+        {
+          "def": "1852"
+        },
+        {
+          "def": "18XX"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "en": [
+          "Second millenium AD",
+          "Second millenium AD, years 1001-2000"
+        ],
+        "zxx": [
+          "1852",
+          "18XX"
+        ],
+        "fr": [
+          "2e mill\u00e9naire apr\u00e8s J.-C."
+        ]
+      },
+      "europeanaCollectionName": [
+        "2022717_Ag_ES_Hispana_Biblioteca_Nacional"
+      ],
+      "europeanaCompleteness": 7,
+      "guid": "https://www.europeana.eu/item/2022717/bnesearch_detalle_bdh0000035665?utm_source=api&utm_medium=api&utm_campaign=vochallyma",
+      "id": "/2022717/bnesearch_detalle_bdh0000035665",
+      "index": 0,
+      "language": [
+        "es"
+      ],
+      "link": "https://api.europeana.eu/record/2022717/bnesearch_detalle_bdh0000035665.json?wskey=vochallyma",
+      "previewNoDistribute": false,
+      "provider": [
+        "Hispana"
+      ],
+      "rights": [
+        "http://creativecommons.org/licenses/by-nc-sa/4.0/"
+      ],
+      "score": 102.168945,
+      "timestamp": 1752028883001,
+      "timestamp_created": "2018-06-05T13:10:43.232Z",
+      "timestamp_created_epoch": 1528204243232,
+      "timestamp_update": "2018-06-19T14:33:19.718Z",
+      "timestamp_update_epoch": 1529418799718,
+      "title": [
+        "[Retrato de Ricardo Shelly] [Material gr\u00e1fico]",
+        "[Retrato de Ricardo Shelly] [Material gr\u00e1fico]"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ],
+      "year": [
+        "1852"
+      ]
+    },
+    {
+      "completeness": 0,
+      "country": [
+        "Romania"
+      ],
+      "dataProvider": [
+        "Bucharest Metropolitan Library"
+      ],
+      "dcDescription": [
+        "Paginarea: 008"
+      ],
+      "dcDescriptionLangAware": {
+        "def": [
+          "Paginarea: 008"
+        ]
+      },
+      "dcLanguage": [
+        "ron",
+        "ro"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "ron",
+          "ro"
+        ]
+      },
+      "dcTitleLangAware": {
+        "ro": [
+          "Quatren: Dup\u0103 Shelly"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/76",
+        "http://vocab.getty.edu/aat/300048715",
+        "http://vocab.getty.edu/aat/300055931",
+        "http://vocab.getty.edu/aat/300111999"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Dichtkunst"
+        },
+        {
+          "def": "Artikel (Dokument)"
+        },
+        {
+          "def": "Ver\u00f6ffentlichung"
+        },
+        {
+          "def": "Runous"
+        },
+        {
+          "def": "\u041f\u043e\u044d\u0437\u0438\u044f"
+        },
+        {
+          "def": "Poesia"
+        },
+        {
+          "def": "poesia"
+        },
+        {
+          "def": "\u041f\u043e\u0435\u0437\u0438\u044f"
+        },
+        {
+          "def": "Poezija"
+        },
+        {
+          "def": "Poezija"
+        },
+        {
+          "def": "Dzeja"
+        },
+        {
+          "def": "Po\u00e9sie"
+        },
+        {
+          "def": "article"
+        },
+        {
+          "def": "K\u00f6lt\u00e9szet"
+        },
+        {
+          "def": "Po\u00e9zia"
+        },
+        {
+          "def": "Pesni\u0161tvo"
+        },
+        {
+          "def": "Fil\u00edocht"
+        },
+        {
+          "def": "Poesia"
+        },
+        {
+          "def": "Poesi"
+        },
+        {
+          "def": "\u03a0\u03bf\u03af\u03b7\u03c3\u03b7"
+        },
+        {
+          "def": "Poe\u017cija"
+        },
+        {
+          "def": "Poetry"
+        },
+        {
+          "def": "articles"
+        },
+        {
+          "def": "poetry"
+        },
+        {
+          "def": "publications (documents)"
+        },
+        {
+          "def": "Poesia"
+        },
+        {
+          "def": "Poes\u00eda"
+        },
+        {
+          "def": "art\u00edculos"
+        },
+        {
+          "def": "poes\u00eda"
+        },
+        {
+          "def": "publicaciones"
+        },
+        {
+          "def": "Luule"
+        },
+        {
+          "def": "Poezie"
+        },
+        {
+          "def": "Olerkigintza"
+        },
+        {
+          "def": "Poezja"
+        },
+        {
+          "def": "Poesi"
+        },
+        {
+          "def": "Poezie"
+        },
+        {
+          "def": "Po\u00ebzie"
+        },
+        {
+          "def": "artikelen"
+        },
+        {
+          "def": "po\u00ebzie"
+        },
+        {
+          "def": "publicaties"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Ver\u00f6ffentlichung",
+          "Dichtkunst",
+          "Artikel (Dokument)"
+        ],
+        "fi": [
+          "Runous"
+        ],
+        "ru": [
+          "\u041f\u043e\u044d\u0437\u0438\u044f"
+        ],
+        "pt": [
+          "Poesia",
+          "poesia"
+        ],
+        "bg": [
+          "\u041f\u043e\u0435\u0437\u0438\u044f"
+        ],
+        "lt": [
+          "Poezija"
+        ],
+        "hr": [
+          "Poezija"
+        ],
+        "lv": [
+          "Dzeja"
+        ],
+        "fr": [
+          "Po\u00e9sie",
+          "article"
+        ],
+        "hu": [
+          "K\u00f6lt\u00e9szet"
+        ],
+        "sk": [
+          "Po\u00e9zia"
+        ],
+        "sl": [
+          "Pesni\u0161tvo"
+        ],
+        "ga": [
+          "Fil\u00edocht"
+        ],
+        "ca": [
+          "Poesia"
+        ],
+        "sv": [
+          "Poesi"
+        ],
+        "el": [
+          "\u03a0\u03bf\u03af\u03b7\u03c3\u03b7"
+        ],
+        "mt": [
+          "Poe\u017cija"
+        ],
+        "en": [
+          "publications (documents)",
+          "Poetry",
+          "articles",
+          "poetry"
+        ],
+        "it": [
+          "Poesia"
+        ],
+        "es": [
+          "publicaciones",
+          "art\u00edculos",
+          "poes\u00eda",
+          "Poes\u00eda"
+        ],
+        "et": [
+          "Luule"
+        ],
+        "cs": [
+          "Poezie"
+        ],
+        "eu": [
+          "Olerkigintza"
+        ],
+        "pl": [
+          "Poezja"
+        ],
+        "da": [
+          "Poesi"
+        ],
+        "ro": [
+          "Poezie"
+        ],
+        "nl": [
+          "publicaties",
+          "artikelen",
+          "Po\u00ebzie",
+          "po\u00ebzie"
+        ]
+      },
+      "edmDatasetName": [
+        "954_Ministerul_Culturii_Manifestations"
+      ],
+      "edmIsShownAt": [
+        "https://culturalia.ro/entities/07a3f6b2-d1d9-f546-857b-6fb5ce9e3022/view"
+      ],
+      "edmIsShownBy": [
+        "https://resource.culturalia.ro/public/2000/01/01/_B-BMB_2021_05%20mai_Baze%20de%20date_Taroiu_mai_2021_BMB_Biblioteca-digitala-portabila/Literatorul_1892_09_15_nr04_008.pdf"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "Europa"
+        },
+        {
+          "def": "Europa"
+        },
+        {
+          "def": "Eurooppa"
+        },
+        {
+          "def": "\u0420\u0430\u0448\u043a\u0430"
+        },
+        {
+          "def": "\u0415\u0432\u0440\u043e\u043f\u0430"
+        },
+        {
+          "def": "Europa"
+        },
+        {
+          "def": "\u0415\u0432\u0440\u043e\u043f\u0430"
+        },
+        {
+          "def": "\u0395\u03c5\u03c1\u03ce\u03c0\u03b7"
+        },
+        {
+          "def": "Europa"
+        },
+        {
+          "def": "European"
+        },
+        {
+          "def": "Eiropa"
+        },
+        {
+          "def": "Europa"
+        },
+        {
+          "def": "Europe"
+        },
+        {
+          "def": "Eur\u00f3pa"
+        },
+        {
+          "def": "Europa"
+        },
+        {
+          "def": "El viejo continente"
+        },
+        {
+          "def": "Euroopa"
+        },
+        {
+          "def": "Europa"
+        },
+        {
+          "def": "Evropa"
+        },
+        {
+          "def": "Eur\u00f3pa"
+        },
+        {
+          "def": "an Eoraip"
+        },
+        {
+          "def": "Europa"
+        },
+        {
+          "def": "Europa"
+        },
+        {
+          "def": "Europa"
+        },
+        {
+          "def": "Europa"
+        },
+        {
+          "def": "Europa"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "de": [
+          "Europa"
+        ],
+        "sv": [
+          "Europa"
+        ],
+        "fi": [
+          "Eurooppa"
+        ],
+        "ru": [
+          "\u0420\u0430\u0448\u043a\u0430",
+          "\u0415\u0432\u0440\u043e\u043f\u0430"
+        ],
+        "pt": [
+          "Europa"
+        ],
+        "bg": [
+          "\u0415\u0432\u0440\u043e\u043f\u0430"
+        ],
+        "el": [
+          "\u0395\u03c5\u03c1\u03ce\u03c0\u03b7"
+        ],
+        "lt": [
+          "Europa"
+        ],
+        "en": [
+          "European"
+        ],
+        "lv": [
+          "Eiropa"
+        ],
+        "it": [
+          "Europa"
+        ],
+        "fr": [
+          "Europe"
+        ],
+        "hu": [
+          "Eur\u00f3pa"
+        ],
+        "es": [
+          "Europa",
+          "El viejo continente"
+        ],
+        "et": [
+          "Euroopa"
+        ],
+        "eu": [
+          "Europa"
+        ],
+        "cs": [
+          "Evropa"
+        ],
+        "sk": [
+          "Eur\u00f3pa"
+        ],
+        "ga": [
+          "an Eoraip"
+        ],
+        "pl": [
+          "Europa"
+        ],
+        "da": [
+          "Europa"
+        ],
+        "ro": [
+          "Europa"
+        ],
+        "nl": [
+          "Europa"
+        ],
+        "ca": [
+          "Europa"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Europe"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "en": [
+          "Europe"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "56.2"
+      ],
+      "edmPlaceLongitude": [
+        "15.016"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fresource.culturalia.ro%2Fpublic%2F2000%2F01%2F01%2F_B-BMB_2021_05%2520mai_Baze%2520de%2520date_Taroiu_mai_2021_BMB_Biblioteca-digitala-portabila%2FLiteratorul_1892_09_15_nr04_008.pdf&type=TEXT"
+      ],
+      "europeanaCollectionName": [
+        "954_Ministerul_Culturii_Manifestations"
+      ],
+      "europeanaCompleteness": 0,
+      "guid": "https://www.europeana.eu/item/954/Culturalia_07a3f6b2_d1d9_f546_857b_6fb5ce9e3022?utm_source=api&utm_medium=api&utm_campaign=vochallyma",
+      "id": "/954/Culturalia_07a3f6b2_d1d9_f546_857b_6fb5ce9e3022",
+      "index": 0,
+      "language": [
+        "ro"
+      ],
+      "link": "https://api.europeana.eu/record/954/Culturalia_07a3f6b2_d1d9_f546_857b_6fb5ce9e3022.json?wskey=vochallyma",
+      "previewNoDistribute": false,
+      "provider": [
+        "National Heritage Institute, Bucharest"
+      ],
+      "rights": [
+        "http://creativecommons.org/licenses/by-sa/4.0/"
+      ],
+      "score": 100.479996,
+      "timestamp": 1752037402871,
+      "timestamp_created": "2023-09-06T14:28:12.476Z",
+      "timestamp_created_epoch": 1694010492476,
+      "timestamp_update": "2023-09-06T14:28:12.476Z",
+      "timestamp_update_epoch": 1694010492476,
+      "title": [
+        "Quatren: Dup\u0103 Shelly"
+      ],
+      "type": "TEXT",
+      "ugc": [
+        false
+      ]
+    },
+    {
+      "completeness": 5,
+      "country": [
+        "United Kingdom"
+      ],
+      "dataProvider": [
+        "Kirklees Image Archive OAI Feed"
+      ],
+      "dcLanguage": [
+        "EN-GB"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "EN-GB"
+        ]
+      },
+      "dcTitleLangAware": {
+        "def": [
+          "Rising Sun - Shelly, Huddersfield."
+        ]
+      },
+      "edmDatasetName": [
+        "2022320_Ag_UK_ELocal_KirkleesImageArchive"
+      ],
+      "edmIsShownAt": [
+        "http://www.kirkleesimages.org.uk/frontend.php?keywords=Ref_No_increment;EQUALS;k024317&pos=2&action=zoom"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fwww.culturegrid.org.uk%2Fdpp%2Fresource%2F2105619%2Fstream%2Fthumbnail_image_jpeg&type=IMAGE"
+      ],
+      "europeanaCollectionName": [
+        "2022320_Ag_UK_ELocal_KirkleesImageArchive"
+      ],
+      "europeanaCompleteness": 5,
+      "guid": "https://www.europeana.eu/item/2022320/718294754DC73E5EE7DE31C3784FC87AEADE9056?utm_source=api&utm_medium=api&utm_campaign=vochallyma",
+      "id": "/2022320/718294754DC73E5EE7DE31C3784FC87AEADE9056",
+      "index": 0,
+      "language": [
+        "en"
+      ],
+      "link": "https://api.europeana.eu/record/2022320/718294754DC73E5EE7DE31C3784FC87AEADE9056.json?wskey=vochallyma",
+      "previewNoDistribute": false,
+      "provider": [
+        "CultureGrid"
+      ],
+      "rights": [
+        "http://rightsstatements.org/vocab/InC/1.0/"
+      ],
+      "score": 97.84667,
+      "timestamp": 1752051779649,
+      "timestamp_created": "1970-01-01T00:00:00.000Z",
+      "timestamp_created_epoch": 0,
+      "timestamp_update": "1970-01-01T00:00:00.000Z",
+      "timestamp_update_epoch": 0,
+      "title": [
+        "Rising Sun - Shelly, Huddersfield."
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    },
+    {
+      "completeness": 5,
+      "country": [
+        "Ireland"
+      ],
+      "dataProvider": [
+        "National Library of Ireland"
+      ],
+      "dcTitleLangAware": {
+        "def": [
+          "Mr Shelly, City, group,"
+        ]
+      },
+      "edmDatasetName": [
+        "92022_Ag_EU_TEL_a0430E"
+      ],
+      "edmIsShownAt": [
+        "http://catalogue.nli.ie/Record/P_WP_1315?loadLightbox=yes"
+      ],
+      "edmIsShownBy": [
+        "http://www.nli.ie/glassplates/P_WP/P_WP_1315.jpg"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fwww.nli.ie%2Fglassplates%2Fthumbs%2FP_WP%2FP_WP_1315.jpg&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1884/1945"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "zxx": [
+          "1884/1945"
+        ]
+      },
+      "europeanaCollectionName": [
+        "92022_Ag_EU_TEL_a0430E"
+      ],
+      "europeanaCompleteness": 5,
+      "guid": "https://www.europeana.eu/item/92022/BibliographicResource_1000125931190?utm_source=api&utm_medium=api&utm_campaign=vochallyma",
+      "id": "/92022/BibliographicResource_1000125931190",
+      "index": 0,
+      "language": [
+        "en"
+      ],
+      "link": "https://api.europeana.eu/record/92022/BibliographicResource_1000125931190.json?wskey=vochallyma",
+      "previewNoDistribute": false,
+      "provider": [
+        "The European Library"
+      ],
+      "rights": [
+        "http://rightsstatements.org/vocab/InC/1.0/"
+      ],
+      "score": 97.823395,
+      "timestamp": 1752061037914,
+      "timestamp_created": "2014-06-06T08:46:38.766Z",
+      "timestamp_created_epoch": 1402044398766,
+      "timestamp_update": "2014-07-18T12:08:29.252Z",
+      "timestamp_update_epoch": 1405685309252,
+      "title": [
+        "Mr Shelly, City, group,"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    },
+    {
+      "completeness": 5,
+      "country": [
+        "Spain"
+      ],
+      "dataProvider": [
+        "Canary Islands Historical Photography Archive"
+      ],
+      "dcCreator": [
+        "TOM\u00c1S G\u00d3MEZ BOSCH"
+      ],
+      "dcCreatorLangAware": {
+        "def": [
+          "TOM\u00c1S G\u00d3MEZ BOSCH"
+        ]
+      },
+      "dcLanguage": [
+        "spa",
+        "spa"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "spa",
+          "spa"
+        ]
+      },
+      "dcTitleLangAware": {
+        "es": [
+          "SHELLY, MARGARITA [Material gr\u00e1fico]"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/1796"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Kunststoff"
+        },
+        {
+          "def": "Muovi"
+        },
+        {
+          "def": "\u041f\u043b\u0430\u0441\u0442\u043c\u0430\u0441\u0441\u044b"
+        },
+        {
+          "def": "Pl\u00e1stico"
+        },
+        {
+          "def": "\u041f\u043b\u0430\u0441\u0442\u043c\u0430\u0441\u0430"
+        },
+        {
+          "def": "Plastikas"
+        },
+        {
+          "def": "Plastika"
+        },
+        {
+          "def": "Plastmasas"
+        },
+        {
+          "def": "Mati\u00e8re plastique"
+        },
+        {
+          "def": "M\u0171anyag"
+        },
+        {
+          "def": "Plast"
+        },
+        {
+          "def": "Plastika"
+        },
+        {
+          "def": "Plaisteach"
+        },
+        {
+          "def": "Pl\u00e0stic"
+        },
+        {
+          "def": "Plast"
+        },
+        {
+          "def": "\u03a0\u03bb\u03b1\u03c3\u03c4\u03b9\u03ba\u03cc"
+        },
+        {
+          "def": "Plastic"
+        },
+        {
+          "def": "Materie plastiche"
+        },
+        {
+          "def": "Pl\u00e1stico"
+        },
+        {
+          "def": "Plast"
+        },
+        {
+          "def": "Plast"
+        },
+        {
+          "def": "Plastiko"
+        },
+        {
+          "def": "Tworzywo sztuczne"
+        },
+        {
+          "def": "Plast"
+        },
+        {
+          "def": "Mas\u0103 plastic\u0103"
+        },
+        {
+          "def": "Kunststof"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Kunststoff"
+        ],
+        "fi": [
+          "Muovi"
+        ],
+        "ru": [
+          "\u041f\u043b\u0430\u0441\u0442\u043c\u0430\u0441\u0441\u044b"
+        ],
+        "pt": [
+          "Pl\u00e1stico"
+        ],
+        "bg": [
+          "\u041f\u043b\u0430\u0441\u0442\u043c\u0430\u0441\u0430"
+        ],
+        "lt": [
+          "Plastikas"
+        ],
+        "hr": [
+          "Plastika"
+        ],
+        "lv": [
+          "Plastmasas"
+        ],
+        "fr": [
+          "Mati\u00e8re plastique"
+        ],
+        "hu": [
+          "M\u0171anyag"
+        ],
+        "sk": [
+          "Plast"
+        ],
+        "sl": [
+          "Plastika"
+        ],
+        "ga": [
+          "Plaisteach"
+        ],
+        "ca": [
+          "Pl\u00e0stic"
+        ],
+        "sv": [
+          "Plast"
+        ],
+        "el": [
+          "\u03a0\u03bb\u03b1\u03c3\u03c4\u03b9\u03ba\u03cc"
+        ],
+        "en": [
+          "Plastic"
+        ],
+        "it": [
+          "Materie plastiche"
+        ],
+        "es": [
+          "Pl\u00e1stico"
+        ],
+        "et": [
+          "Plast"
+        ],
+        "cs": [
+          "Plast"
+        ],
+        "eu": [
+          "Plastiko"
+        ],
+        "pl": [
+          "Tworzywo sztuczne"
+        ],
+        "da": [
+          "Plast"
+        ],
+        "ro": [
+          "Mas\u0103 plastic\u0103"
+        ],
+        "nl": [
+          "Kunststof"
+        ]
+      },
+      "edmDatasetName": [
+        "2022716_Ag_ES_Hispana_fedac"
+      ],
+      "edmIsShownAt": [
+        "https://www.fotosantiguascanarias.org/oaistore/registro/oai:fotosantiguascanarias.org:00079386"
+      ],
+      "edmIsShownBy": [
+        "https://www.fotosantiguascanarias.org/oaistore/srvimg/img102/00079001_00079500/00079386/alta/00079386_0001.jpg"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.fotosantiguascanarias.org%2Foaistore%2Fsrvimg%2Fimg102%2F00079001_00079500%2F00079386%2Falta%2F00079386_0001.jpg&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1959"
+        },
+        {
+          "def": "20. Jahrhundert"
+        },
+        {
+          "def": "1900-luku"
+        },
+        {
+          "def": "XX \u0432\u0435\u043a"
+        },
+        {
+          "def": "S\u00e9culo XX"
+        },
+        {
+          "def": "20 \u0432\u0435\u043a"
+        },
+        {
+          "def": "XX am\u017eius"
+        },
+        {
+          "def": "20. stolje\u0107e"
+        },
+        {
+          "def": "20. gadsimts"
+        },
+        {
+          "def": "XXe si\u00e8cle"
+        },
+        {
+          "def": "20. sz\u00e1zad"
+        },
+        {
+          "def": "20. storo\u010die"
+        },
+        {
+          "def": "20. stoletje"
+        },
+        {
+          "def": "20\u00fa haois"
+        },
+        {
+          "def": "Segle XX"
+        },
+        {
+          "def": "1900-talet"
+        },
+        {
+          "def": "20\u03cc\u03c2 \u03b1\u03b9\u03ce\u03bd\u03b1\u03c2"
+        },
+        {
+          "def": "20th century"
+        },
+        {
+          "def": "XX secolo"
+        },
+        {
+          "def": "Siglo XX"
+        },
+        {
+          "def": "20. sajand"
+        },
+        {
+          "def": "20. stolet\u00ed"
+        },
+        {
+          "def": "XX. mendea"
+        },
+        {
+          "def": "XX wiek"
+        },
+        {
+          "def": "20. \u00e5rhundrede"
+        },
+        {
+          "def": "Secolul al XX-lea"
+        },
+        {
+          "def": "20e eeuw"
+        },
+        {
+          "def": "http://www.wikidata.org/entity/Q6927"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh2002012476"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh85139020"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/D049673"
+        },
+        {
+          "def": "https://www.freebase.com/m/089_x"
+        },
+        {
+          "def": "https://g.co/kg/m/089_x"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/K01.400.504.968"
+        },
+        {
+          "def": "http://vocab.getty.edu/aat/300404514"
+        },
+        {
+          "def": "http://id.worldcat.org/fast/1159810"
+        },
+        {
+          "def": "http://dbpedia.org/resource/20th_century"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "de": [
+          "20. Jahrhundert"
+        ],
+        "fi": [
+          "1900-luku"
+        ],
+        "ru": [
+          "XX \u0432\u0435\u043a"
+        ],
+        "pt": [
+          "S\u00e9culo XX"
+        ],
+        "bg": [
+          "20 \u0432\u0435\u043a"
+        ],
+        "lt": [
+          "XX am\u017eius"
+        ],
+        "hr": [
+          "20. stolje\u0107e"
+        ],
+        "lv": [
+          "20. gadsimts"
+        ],
+        "fr": [
+          "XXe si\u00e8cle"
+        ],
+        "hu": [
+          "20. sz\u00e1zad"
+        ],
+        "sk": [
+          "20. storo\u010die"
+        ],
+        "sl": [
+          "20. stoletje"
+        ],
+        "ga": [
+          "20\u00fa haois"
+        ],
+        "ca": [
+          "Segle XX"
+        ],
+        "sv": [
+          "1900-talet"
+        ],
+        "el": [
+          "20\u03cc\u03c2 \u03b1\u03b9\u03ce\u03bd\u03b1\u03c2"
+        ],
+        "en": [
+          "20th century"
+        ],
+        "it": [
+          "XX secolo"
+        ],
+        "es": [
+          "Siglo XX"
+        ],
+        "et": [
+          "20. sajand"
+        ],
+        "cs": [
+          "20. stolet\u00ed"
+        ],
+        "eu": [
+          "XX. mendea"
+        ],
+        "zxx": [
+          "1959"
+        ],
+        "pl": [
+          "XX wiek"
+        ],
+        "da": [
+          "20. \u00e5rhundrede"
+        ],
+        "ro": [
+          "Secolul al XX-lea"
+        ],
+        "nl": [
+          "20e eeuw"
+        ]
+      },
+      "europeanaCollectionName": [
+        "2022716_Ag_ES_Hispana_fedac"
+      ],
+      "europeanaCompleteness": 5,
+      "guid": "https://www.europeana.eu/item/2022716/https___hispana_mcu_es_lod_oai_fotosantiguascanarias_org_00079386_ent0?utm_source=api&utm_medium=api&utm_campaign=vochallyma",
+      "id": "/2022716/https___hispana_mcu_es_lod_oai_fotosantiguascanarias_org_00079386_ent0",
+      "index": 0,
+      "language": [
+        "es"
+      ],
+      "link": "https://api.europeana.eu/record/2022716/https___hispana_mcu_es_lod_oai_fotosantiguascanarias_org_00079386_ent0.json?wskey=vochallyma",
+      "previewNoDistribute": false,
+      "provider": [
+        "Hispana"
+      ],
+      "rights": [
+        "http://rightsstatements.org/vocab/InC-EDU/1.0/"
+      ],
+      "score": 97.711975,
+      "timestamp": 1752037745300,
+      "timestamp_created": "2025-03-18T12:16:54.085Z",
+      "timestamp_created_epoch": 1742300214085,
+      "timestamp_update": "2025-03-18T12:16:54.085Z",
+      "timestamp_update_epoch": 1742300214085,
+      "title": [
+        "SHELLY, MARGARITA [Material gr\u00e1fico]"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ],
+      "year": [
+        "1959"
+      ]
+    }
+  ]
+}
